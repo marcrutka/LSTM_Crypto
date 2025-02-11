@@ -22,8 +22,8 @@ This project predicts Bitcoin prices using an **LSTM (Long Short-Term Memory) ne
 ## Installation & Usage
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/bitcoin-lstm-predictor.git
-   cd bitcoin-lstm-predictor
+   git clone https://github.com/marcrutka/LSTM_Crypto.git
+   cd LSTM_Crypto.ipynb
    ```
 2. **Install dependencies**
    ```bash
@@ -33,7 +33,7 @@ This project predicts Bitcoin prices using an **LSTM (Long Short-Term Memory) ne
 
 
 ## Example Prediction
-![Prediction Graph](example.png)
+![Predicted vs Actual](example.png)
 
 ## Disclaimer
 This project is for **educational purposes only** and should not be used for financial decision-making. Cryptocurrency markets are highly volatile. Always conduct your own research before investing.
