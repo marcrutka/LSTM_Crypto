@@ -9,7 +9,8 @@ This project predicts Bitcoin prices using an **LSTM (Long Short-Term Memory) ne
 ✅ Implements **single-step** and **multi-step** forecasting  
 ✅ Uses an **LSTM model** to learn from past price movements  
 ✅ Visualizes **actual vs. predicted prices** with Matplotlib  
-✅ Evaluates model performance using **MAE (Mean Absolute Error) and RMSE (Root Mean Squared Error)**  
+✅ Evaluates model performance using **MAE (Mean Absolute Error) and RMSE (Root Mean Squared Error)** 
+✅ Supports customizable time **intervals (1h, 1d, 1wk, etc.)**, **start and end dates**, as well as **different cryptocurrencies** and other financial assets based on the Ticker Symbol
 
 ## Technologies Used
 - **Python** 🐍
