@@ -1,4 +1,4 @@
-# 📈 Bitcoin Price Prediction using LSTM (Long Short-Term Memory)
+# 📈 Cryptocurrency Price Prediction using LSTM (Long Short-Term Memory)
 
 ## Overview
 This project predicts Bitcoin prices using an **LSTM (Long Short-Term Memory) neural network**, a type of **Recurrent Neural Network (RNN)** designed for time-series forecasting. The model supports both **single-step and multi-step predictions**, forecasting BTC/USD prices up to 24 hours ahead.
@@ -33,7 +33,7 @@ This project predicts Bitcoin prices using an **LSTM (Long Short-Term Memory) ne
 
 
 ## Example Prediction
-![Predicted vs Actual](example.png)
+![Predicted vs Actual](LTSM_picture.png)
 
 ## Disclaimer
 This project is for **educational purposes only** and should not be used for financial decision-making. Cryptocurrency markets are highly volatile. Always conduct your own research before investing.
